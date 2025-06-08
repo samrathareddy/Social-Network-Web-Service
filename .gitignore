@@ -1,0 +1,8 @@
+*.ipynb
+*.pem
+*.log
+downloaded_graphs/*
+.vscode/*
+__pycache__/*
+
+/config.py
